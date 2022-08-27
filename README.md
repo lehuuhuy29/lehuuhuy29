@@ -22,7 +22,8 @@ I'm 22 years old
 <br/>
 I'm study in Nong Lam University
 <br/>
-Languages and Tools🛠:
+<br/>
+<h3>Languages and Tools🛠:</h3>
 
   <br/>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -36,9 +37,8 @@ Languages and Tools🛠:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></code>
 
 ---
-
-Connect with me🤝:
-
+<br/>
+<h3>Connect with me🤝: </h3>
 <br/>
 
 <a href="https://github.com/lehuuhuy29">

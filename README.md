@@ -6,7 +6,7 @@ My name is Huy. You can call me Henry.  I live in Ho Chi Minh City, Vietnam.
 
 <b> 💻 CURRENT WORK </b>
 
-Currently, I'm a software engineer at TMA Solution, joining as a Full Stack Software Engineer on a healthcare project based in the US.
+Currently, I'm a software engineer at TMA Solutions, joining as a Full Stack Software Engineer on a healthcare project based in the US.
 
 <b> 📚 TECH STACK </b>
 

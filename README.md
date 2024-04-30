@@ -2,7 +2,7 @@
 
 <b> 🟡  WHO AM I?  🙆‍♂️ </b>
 
-My name is Huy. You can call me Henry.  I live in Ho Chi Minh City, Vietmam.
+My name is Huy. You can call me Henry.  I live in Ho Chi Minh City, Vietnam.
 
 <b> 💻 CURRENT WORK </b>
 
